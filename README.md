@@ -1,2 +1,2 @@
 # EmployeeManagementSystem
-Employee Management System
+Employee Management System using Spring Boot, HTML, CSS, JS and Bootstrap
